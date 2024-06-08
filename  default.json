@@ -1,0 +1,50 @@
+{
+    "WBUI2": {
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": false,
+          "HideIconAfter": 60,
+          "IconURL": "https://imgur.com/a/m9rLABj",
+          "DisableIconText": false,
+          "IconPosition": 0,
+          "IconTextColor": 0,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": true,
+          "UpdateInterval": 12
+        },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 1,
+            "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+            "title1": "Welcome to No Threat Ark Servers!",
+            "text1": "We are a small group and friends and family.\n\nTo keep the servers alive we do offer an in-game store and Donation store that you can use to purchase dinos, items, or just show some love!\n\nRules can be found in our Discord server. Use the buttons below.",
+            "imageurl": "https://imgur.com/a/rIchHm6"
+          }
+        },
+        {
+          "tab2": {
+            "layout": 1,
+            "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+            "title1": "Donation Information",
+            "text1": "Donation tier info here...",
+            "imageurl": "https://imgur.com/a/rIchHm6"
+          }
+        }
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Link to discord",
+            "url": "https://discord.gg/n4jgWuwvQ8"
+          }
+        },
+        {
+          "link2": {
+            "text": "Donate",
+            "url": "https://google.com"
+          }
+        }
+      ]
+    }
+  }

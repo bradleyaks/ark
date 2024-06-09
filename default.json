@@ -16,19 +16,19 @@
         {
           "tab1": {
             "layout": 1,
-            "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+            "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome to No Threat Ark Servers!</>",
             "title1": "Welcome to No Threat Ark Servers!",
             "text1": "We are a small group and friends and family.\n\nTo keep the servers alive we do offer an in-game store and Donation store that you can use to purchase dinos, items, or just show some love!\n\nRules can be found in our Discord server. Use the buttons below.",
-            "imageurl": "https://imgur.com/a/rIchHm6"
+            "imageurl": "https://i.imgur.com/YbaIrxo.png"
           }
         },
         {
           "tab2": {
             "layout": 1,
-            "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+            "buttontext": "<RichColor Color=\"1,0,0,1\">Donations and Ark Store</>",
             "title1": "Donation Information",
-            "text1": "Donation tier info here...",
-            "imageurl": "https://imgur.com/a/rIchHm6"
+            "text1": "Donation tier info here... Store is still in work!",
+            "imageurl": "https://i.imgur.com/YbaIrxo.png"
           }
         }
       ],
@@ -42,7 +42,7 @@
         {
           "link2": {
             "text": "Donate",
-            "url": "https://google.com"
+            "url": "https://arkthreat.tip4serv.com/"
           }
         }
       ]

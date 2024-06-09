@@ -27,7 +27,7 @@
             "layout": 1,
             "buttontext": "<RichColor Color=\"1,0,0,1\">Donations and Ark Store</>",
             "title1": "Donation Information",
-            "text1": "Donation tier info here... Store is still in work!",
+            "text1": "Donation tier info here... Store is still in work!\n\nThe Ark Store will transfer any points you have in the cluster. Moving from one server to another does nothing to your points or your VIP Donator status.",
             "imageurl": "https://i.imgur.com/YbaIrxo.png"
           }
         }
